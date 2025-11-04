@@ -84,6 +84,6 @@ Los nombres y logotipos de las empresas mencionadas son marcas registradas de su
 
 ---
 
-✍️ Autor: [Tu nombre o empresa]  
+✍️ Autor: pedri77 
 📅 Año: 2025  
 🌐 Fuente de referencia: Gartner / Vendors oficiales / Gartner Peer Insights
