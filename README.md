@@ -78,6 +78,22 @@ Incluye:
 
 ---
 
+## Siglas 
+
+IAM — Identity and Access Management → Gestión de identidad y acceso.
+
+IGA — Identity Governance and Administration → Gobernanza y administración de identidades.
+
+IDV — Identity Verification → Verificación de identidad (KYC/KYB).
+
+KYC — Know Your Customer → Conoce a tu cliente.
+
+KYB — Know Your Business → Conoce a la empresa (verificación de entidad).
+
+MFA — Multi-Factor Authentication → Autenticación multifactor.
+
+SSO — Single Sign-On → Inicio de sesión único.
+
 ## 📜 Licencia
 Este repositorio se distribuye con fines **educativos y de divulgación** bajo licencia MIT.  
 Los nombres y logotipos de las empresas mencionadas son marcas registradas de sus respectivos propietarios.
